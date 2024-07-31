@@ -1,0 +1,60 @@
+.appoiment{
+    background-color: rgb(23, 22, 22);
+    justify-content: center;
+    align-items: center;
+    
+    border-radius: 10px;
+    margin: 15px;
+    padding: 10px;
+}
+.appoiment .topp{
+    padding-left: 10px;
+    padding-right: 10px;;
+}
+.appoiment span{
+    padding-left: 160px;
+    color: orange;
+}
+form{
+    display: block;
+    unicode-bidi: isolate;
+    margin: 10px;
+    background-color: rgb(34, 34, 34);
+    padding: 10px;
+    border-radius: 10px;
+}
+.get input ,textarea {
+    background-color: rgb(10, 5, 5);
+    border: none;
+    width: 280px;
+    height: 30px;
+    margin: 5px;
+    border-radius: 10px;
+    padding: 25px;
+    color: white;
+}
+.contact_end{
+    display: block;
+   
+    margin: 20px;
+    background-color: rgb(14, 6, 6);
+    padding: 5px;
+    border-radius: 10px;
+    padding: 20px 0px 15px 50px;
+    box-shadow: 2px 8px 20px 1px orange;
+}
+
+.contact_end p{
+ color: rgb(118, 120, 122);
+}
+.visit{
+    padding-left: 40px;
+  
+}
+.visit a{
+    padding: 10px;
+}
+.work{
+    display: flex;
+    justify-content: center;
+}

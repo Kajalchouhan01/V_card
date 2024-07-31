@@ -1,0 +1,16 @@
+.project{
+    padding: 30px;
+ 
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(26, 21, 21);
+}
+.pr{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.slide{
+    margin: 10px;
+    background-color: rgb(26, 21, 21);
+}
