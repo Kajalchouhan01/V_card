@@ -1,0 +1,39 @@
+.thoughts-section {
+    margin-top: 30px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    background-color: #e28528b1;
+    color: black
+  }
+  .thoughts-section h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+  }
+  .tho{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .thought-box {
+    border: 1px solid #aaa4a4;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 10px ;
+    background-color: #bdb9b4;
+    
+  }
+  
+  .thought-box h4 {
+    margin-bottom: 10px;
+    color: #1b0404;
+  }
+  
+  .thought-box p {
+    color: #222020;
+  }
